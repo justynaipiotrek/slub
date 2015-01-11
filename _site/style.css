@@ -17,6 +17,12 @@ body {
     color: #333;
 }
 
+.hapiness-logo{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80px;
+}
+
 .vertical-center {
   min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
 
