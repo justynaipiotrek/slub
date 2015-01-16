@@ -32,12 +32,12 @@ body {
 }
 
 p {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.75;
 }
 
 p.large {
-    font-size: 16px;
+    font-size: 18px;
 }
 
 a,
@@ -289,7 +289,7 @@ header {
 }
 
 header .intro-text {
-    padding-top: 100px;
+    padding-top: 250px;
     padding-bottom: 50px;
 }
 
@@ -461,7 +461,7 @@ section h3.section-subheading {
 
 .timeline>li {
     position: relative;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
     min-height: 50px;
 }
 
@@ -561,7 +561,7 @@ section h3.section-subheading {
     }
 
     .timeline>li {
-        margin-bottom: 100px;
+        margin-bottom: 30px;
         min-height: 100px;
     }
 
@@ -738,11 +738,11 @@ footer {
     text-align: center;
 }
 
-footer span.copyright {
+footer .copyright {
     text-transform: uppercase;
     text-transform: none;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    line-height: 40px;
+    line-height: 25px;
 }
 
 footer ul.quicklinks {
